@@ -1,0 +1,22 @@
+ReadMe!
+
+To launch the tool open the file called "index.html" inside of your javascript enabled web browser.
+To do this you can right click the file and "open with" your web browser, or you can type "file://FILE_PATH"
+into the search bar. (Replace FILE_PATH with the path to "index.html")
+
+To move characters simply click the selectors/pickers on the left sidebar and change the character with the given options.
+
+This tool was created by Falco_DJ, some reusable code was  recycled from the "legecy te stagelist tool," 
+and many titles and/or names for peices of code were also reused (or changed slightly) from the same tool.
+
+The ASM wiird code "CSS Roster Data" was created by spunit262, and "CSS Random Data" was created by ds22, and dantarion.
+The UI is was taken from the legacy te stagelist tool, that was based off of SOJ's stagelist tool's UI; the background, the logo, and the colors are new.
+
+To make the tool compatible with any Project M 3.6 and Knuckles build (NOT INCLUDING PMEX) click the "+ Knuckles" button on the left side of the screen.
+The button "+ Knuckes" will not toggle Knuckles into your project m mod, its only purpose is to toggle Knuckles into the tool.
+
+Once you have your desireable layout, generate your codes, with the "Generate Codes" button, and replace the existing "CSS Roster Data" and "CSS Random Data" 
+In your RSBE01.gct with the new ones you generated.
+
+By using this tool you agree that, I am not responsible for anything that might happen to your project m build.
+I recomend that you backup your old gct, and that you also backup your project m build itself.

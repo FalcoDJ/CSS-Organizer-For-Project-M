@@ -1,0 +1,65 @@
+Project M Custom CSS Roster Tool
+
+
+[Project M] CSS Roster Data v2 [spunit262]
+* 06680DE0 0000002A
+* 1500090D 0C05011A
+* 0A250713 100E0F02
+* 24142E20 08232B2C
+* 2A030419 0B170616
+* 1F21112D 18221226
+* 27290000 00000000
+
+This section Of the Code is used for the layout:
+1500090D 0C05011A
+0A250713 100E0F02
+24142E20 08232B2C
+2A030419 0B170616
+1F21112D 18221226
+27290000 00000000
+
+--------------------------
+[CSS Slot IDs]:
+Bowser - 0C
+C. Falcon - 0A
+Charizard - 2A
+Dedede - 1F
+Diddy Kong - 1A
+Donkey Kong - 01
+Falco - 13
+Fox - 07
+G&W - 12
+Ganondwarf - 14
+Ice Climbers - 10
+Ike - 21
+IvySaur - 2C
+JigglyPuff - 23
+Kirby - 06
+Link - 02
+Lucario - 20
+Lucas - 19
+Luigi - 09
+Mario - 00
+Marth - 11
+MetaKnight - 16
+Mewtwo - 2E <-- Clone
+Ness - 0B
+Olimar - 18
+Peach - 0D
+Pikachu - 08
+Pit - 17
+Rob - 22 <-- Clone
+Roy - 2D
+Samus - 03
+Sheik - 0F
+Snake - 26
+Sonic - 27
+Squirtle - 2B
+SZeroSuit - 04
+ToonLink - 24
+Wario - 15
+Wolf - 25
+Yoshi - 05
+Zelda - 0E
+Random - 29
+Knuckles - 30 <-- Clone

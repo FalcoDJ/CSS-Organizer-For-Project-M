@@ -1,0 +1,130 @@
+body {
+    display: block;
+    margin: 0;
+    background: #102C41 url(../images/bg.png) fixed no-repeat;
+    background-position: center;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+#header-title {
+    padding: 10px;
+    background: rgba(8, 16, 23, .7);
+    border-bottom: 2px solid #094662;
+}
+
+footer {
+    display: inline-block;
+    width: 90%;
+    margin-bottom: 10px;
+    margin-left: 5%;
+    margin-top: 10px;
+    padding: 5px;
+    background: rgba(8, 16, 23, .7);
+    border: 2px solid #094662;
+    font-size: 12px;
+    text-align: center;
+}
+footer p {
+	margin: 0px;
+}
+
+#tool-name {
+    font-size: medium;
+    color: #8fa6ff;
+}
+
+version {
+    color: #3FF;
+}
+
+#sidebar {
+    display: inline-block;
+    width: 170px;
+    float: left;
+    margin: 0px;
+    padding: 10px;
+    background: rgba(8, 16, 23, .7);
+    border: 2px solid #094662;
+    font-size: 13px;
+}
+
+.sidebar-title {
+    color: #8fa6ff;
+}
+
+.character-picker {
+    height: 28px;
+    border: none;
+}
+
+#box2 {
+    display: inline;
+    position: absolute;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    background: rgba(8, 16, 23, .7);
+    border: 2px solid #094662;
+}
+
+#char-previews {
+    width: 711px;
+    line-height: 2px;
+}
+
+.char-boxes {
+    display: table-cell;
+    width: 79px;
+    height: 68px;
+    float: none;
+    margin: 1px;
+    padding: 0px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 20px;
+    background: url(../images/PreviewTemplate.png) no-repeat;
+}
+
+.char-box h2 {
+    width: 75px;
+    margin: auto;
+    font-size: 12px;
+    font-family: monospace;
+    color: white;
+}
+
+.Tool-Button {
+    display: block;
+    width: 130px;
+    height: 30px;
+    margin-left: 1px;
+    margin-right: 3px;
+    margin-top: 5px;
+    line-height: 30px;
+    background: #094662;
+    border: 1px solid #094662;
+    color: #E0E0E0;
+}
+
+#Knuckles {
+    width: 100px;
+    height: 20px;
+    border: none;
+}
+
+#demCodes {
+    display: none;
+    width: 693px;
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    background: rgba(8, 16, 23, .7);
+    font-size: 12.5px;
+    font-family: monospace;
+    border: 1px solid #7F7F7F;
+}
